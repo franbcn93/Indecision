@@ -33,7 +33,7 @@
             async getAnswer(){
                 this.answer = "Pensando..."
 
-                const {answer, image} = await fetch ("http://yesno.wtf/api").then(r => r.json())
+                const {answer, image} = await fetch ("https://yesno.wtf/api").then(r => r.json())
 
                 this.answer = answer;
 
