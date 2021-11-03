@@ -1,6 +1,6 @@
 # indecision
 
-## Projecto subido (Mira una prueba Aquí...)[https://franbcn93.github.io/indecision/]
+## Projecto subido [Mira una prueba Aquí...](https://franbcn93.github.io/indecision/)
 
 ## Project setup
 
